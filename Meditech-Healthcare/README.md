@@ -5,22 +5,6 @@
 
 </p>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#technologies-used">Technologies Used</a>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -69,32 +53,3 @@
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
-
-This project is also hosted in firebase, you can run the web app on your browser using this links:
-
-- [Project Page link](https://meditech-healthcare.web.app/)
-- [Doctor Dashboard](https://meditech-healthcare.web.app/user.html)
-- [Researcher Section](https://meditech-healthcare.web.app/researcher/researcher.html)
-<!-- CONTRIBUTING -->
-
-## Installation
-
-1. Clone the repository on your system
-   ```sh
-   git clone https://github.com/tirth-2001/Meditech-Healthcare.git
-   ```
-2. Or direct download ZIP file in your system
-
-3. Now you can directly go to the login.html file to run the project
-4. Sign up & Login into the system and you can add patient and predict their dieases!
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
